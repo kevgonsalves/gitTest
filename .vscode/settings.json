@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorStyle": "block",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.startupEditor": "none"
+}
